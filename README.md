@@ -35,9 +35,9 @@ The analysis focuses on aircraft with:
 2. Run [Aviation_Accidents_Data_Analysis.ipynb](Aviation_Accidents_Data_Analysis.ipynb) to reproduce figures, summaries, and recommendations.
 
 ## Key Findings
-1. Small-aircraft recommendations are led by Cessna, Beechcraft, Piper, Maule, Aviat, and Aeronca examples with lower injury and destruction rates.
-2. Large-aircraft recommendations are led by Boeing and Airbus models, with Boeing 737 and Airbus A320 family examples performing well in the analysis.
-3. Weather condition and flight phase both matter: IMC and maneuvering/climb conditions show higher injury fractions, while VMC and landing are safer.
+1. In the filtered small-aircraft group, low-risk make rankings are concentrated around a subset that includes Maule, Aviat, Aeronca, Bellanca, Champion, and Cessna (based on injury and destruction comparisons under minimum sample-size filters).
+2. In the filtered large-aircraft group, Boeing, Airbus, Embraer, and McDonnell Douglas are the primary makes retained by sample thresholds, with Boeing 737 and Airbus A320 family models appearing prominently in model-level results.
+3. Weather condition and phase of flight materially affect injury outcomes: IMC and maneuvering/climb phases show higher fatal/serious injury fractions, while VMC and landing are associated with lower injury fractions.
 
 ## Status
 Project framing, cleaning, EDA, and final recommendations are complete.
