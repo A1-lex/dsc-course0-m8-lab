@@ -26,10 +26,10 @@ The analysis focuses on aircraft with:
 4. Evaluate at least two additional factors affecting injury and damage outcomes.
 
 ## Outputs
-1. Cleaned dataset exported from the cleaning notebook for reuse in analysis.
+1. Cleaned dataset exported from the cleaning notebook for reuse in analysis: [data/aviation_accidents_cleaned.csv](data/aviation_accidents_cleaned.csv).
 2. Visual and statistical comparisons for small and large aircraft groups.
 3. Evidence-based make/model recommendations.
 
 ## Status
-Initial project framing completed. Cleaning and analysis results will be added as notebook work is finalized.
+Project framing and data cleaning are complete. EDA and final recommendations are the next step.
 
